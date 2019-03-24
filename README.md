@@ -1,0 +1,2 @@
+# ict221_mathgame_A_B233_w_r006
+first assignment
