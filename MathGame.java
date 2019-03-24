@@ -5,7 +5,7 @@
  *
  * @author Ash Benson
  *
- * @second author Will Ross
+ * @author Will Ross
  *
  */
 
